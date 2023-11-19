@@ -8,3 +8,4 @@ Le chiffrement suit 3 étapes :
 * La dernière étape consiste à séparer les blocs et les répartir eu travers du texte. Ceci est accompli en Prenant la première lettre de chaque bloc, puis de les concaténer. Ensuite, on concatène à ce nouveau str la concaténation des deuxièmes lettres de chaque bloc, et ainsi de suite.
 
 Pour résoudre le challenge, il faut donc prendre l'inverse de ces étapes dans le sens inverse. Pour les deux dernières étapes, veuillez voir ici:
+https://github.com/BaguetteMan35/NBCTF-writeups/blob/main/ADFGXsolve.py
