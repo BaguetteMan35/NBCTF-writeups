@@ -14,7 +14,7 @@ Ensuite, on obtient le texte disponible ici : https://github.com/BaguetteMan35/N
 
 Maintenant, il nous suffit de résoudre une substitution monoalphabétique, on peut utiliser le site dCode pour cela : https://www.dcode.fr/substitution-monoalphabetique
 
-Le texte que l'on obtient est disponible ici : 
+Le texte que l'on obtient est disponible ici : https://github.com/BaguetteMan35/NBCTF-writeups/blob/main/export-dcode-2023-11-19-19-01-33.txt
 
 On remarque qu'il y a, à la fin de celui-ci, du texte qui ressemble à un flag : "ATTENTIONALANALWSEFREQUENTIELLEPETITSOLDAT"
 
