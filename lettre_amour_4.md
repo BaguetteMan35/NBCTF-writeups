@@ -22,11 +22,13 @@ La première méthode étant plus facile car il n'y a aucun besoin de recopier l
 2) Entrer la commande suivante:
     nc amour.nobrackets.fr 30340
 3) Ecrire le texte suivant:
-    {'p' : 1, 'g' : 2, 'A' : 1}
-La valeur de A entrée ici est peu importante tant qu'elle est première.
+    {"p" : 1, "g" : 2, "A" : 1}
+La valeur de A entrée ici est peu importante tant qu'elle est entière.
 4) En réponse, on obtient:
     Interception du message de Bob : {B : 1}
 Ecrire le texte suivant:
-    {'B' : 1}
-5) Obtenir le flag:
+    {"B" : 1}
+5) Indiquer la valeur de la clef partagée : 1
+6) Obtenir le flag:
+    NBCTF{Att3nT10n_A_L'H0mm3_Du_M1LL13U}
     
