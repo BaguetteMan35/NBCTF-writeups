@@ -10,7 +10,7 @@ Le chiffrement suit 3 étapes :
 Pour résoudre le challenge, il faut donc prendre l'inverse de ces étapes dans le sens inverse. Pour les deux dernières étapes, veuillez voir ici:
 https://github.com/BaguetteMan35/NBCTF-writeups/blob/main/ADFGXsolve.py
 
-Ensuite, on obtient le texte disponible ici:
+Ensuite, on obtient le texte disponible ici : https://github.com/BaguetteMan35/NBCTF-writeups/blob/main/monoalphabet.txt
 
 Maintenant, il nous suffit de résoudre une substitution monoalphabétique, on peut utiliser le site dCode pour cela : https://www.dcode.fr/substitution-monoalphabetique
 
