@@ -9,3 +9,13 @@ Le chiffrement suit 3 étapes :
 
 Pour résoudre le challenge, il faut donc prendre l'inverse de ces étapes dans le sens inverse. Pour les deux dernières étapes, veuillez voir ici:
 https://github.com/BaguetteMan35/NBCTF-writeups/blob/main/ADFGXsolve.py
+
+Ensuite, on obtient le texte disponible ici:
+
+Maintenant, il nous suffit de résoudre une substitution monoalphabétique, on peut utiliser le site dCode pour cela : https://www.dcode.fr/substitution-monoalphabetique
+
+Le texte que l'on obtient est disponible ici : 
+
+On remarque qu'il y a, à la fin de celui-ci, du texte qui ressemble à un flag : "ATTENTIONALANALWSEFREQUENTIELLEPETITSOLDAT"
+Avec de petite modification, on obtient un flag lisible en français : "ATTENTIONALANALYSEFREQUENTIELLEPETITSOLDAT"
+On peut donc rentrer le flag "NBCTF{ATTENTIONALANALYSEFREQUENTIELLEPETITSOLDAT}" qui vérifie le challenge.
